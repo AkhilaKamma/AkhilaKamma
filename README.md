@@ -43,8 +43,33 @@ You can find me on:
 <br/>
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=GoogleCloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=GoogleCloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-Cassandra-informational?style=flat&logo=salesforce&logoColor=white&color=2bbc8a)
+
+## &#x1f4c8; GitHub Stats
+
+
+<a href="https://github.com/AkhilaKamma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkhilaKamma&show_icons=true&include_all_commits=true&line_height=27&count_private=true&cache_seconds=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akhila's GitHub Stats" />
+</a>
+</br>
+
+## &#128187; GitHub Projects
+<a href="https://github.com/AkhilaKamma/NLP-Bert-Deep-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=NLP-Bert-Deep-Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+</a>
+
+<a href="https://github.com/AkhilaKamma/Bike_Rides_Dashboard_Tableau">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Bike_Rides_Dashboard_Tableau&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+</a> 
+
+<a href="https://github.com/AkhilaKamma/News-article-Classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=News-article-Classification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+</a> 
+
+<a href="https://github.com/AkhilaKamma/Excel-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Excel-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+</a>
 
 
 <!-- links to social media icons -->
