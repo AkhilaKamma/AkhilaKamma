@@ -55,7 +55,7 @@ You can find me on:
 
 ## &#128187; GitHub Projects
 <a href="https://github.com/AkhilaKamma/NLP-Bert-Deep-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=NLP-Bert-Deep-Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Kaggle_Competitions&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
 
 <a href="https://github.com/AkhilaKamma/Bike_Rides_Dashboard_Tableau">
