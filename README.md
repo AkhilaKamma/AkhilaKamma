@@ -32,33 +32,31 @@ You can find me on:
 ## 🔧 Technologies & Tools
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) -->
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-<br/>
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-<br/>
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=GoogleCloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-Cassandra-informational?style=flat&logo=salesforce&logoColor=white&color=2bbc8a)
+
+
+Python
+MySQL
+Data Mining
+Data Analysis - Real time
+Data Visualization
+Machine Learning
+Deep Learning
+Generative AI
 
 
 ## &#128187; GitHub Projects
-<a href="https://github.com/AkhilaKamma/NLP-Bert-Deep-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Kaggle_Competitions&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
-</a>
 
-<a href="https://github.com/AkhilaKamma/Bike_Rides_Dashboard_Tableau">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Bike_Rides_Dashboard_Tableau&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+<a href="https://github.com/AkhilaKamma/News-article-Classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=News-article-Classification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a> 
 
 <a href="https://github.com/AkhilaKamma/News-article-Classification">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=News-article-Classification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a> 
+
+<a href="https://github.com/AkhilaKamma/NLP-Bert-Deep-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Kaggle_Competitions&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+</a>
 
 <a href="https://github.com/AkhilaKamma/Excel-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Inventory-supply-chain-managemen-5&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
