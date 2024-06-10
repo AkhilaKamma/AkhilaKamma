@@ -29,7 +29,7 @@ You can find me on:
 - [![Kaggle][3.3]][4] [Kaggle][4]
 - 📧 akhilakamma1998@gmail.com
 
-## 🔧 Technologies & Tools
+## 🔧 Skills
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) -->
 
@@ -45,8 +45,8 @@ You can find me on:
 
 ## &#128187; GitHub Projects
 
-<a href="https://github.com/AkhilaKamma/News-article-Classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=News-article-Classification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+<a href="https://github.com/AkhilaKamma/Chatbot_Langchain_Llama2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Chatbot_Langchain_Llama2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a> 
 
 <a href="https://github.com/AkhilaKamma/News-article-Classification">
@@ -57,8 +57,8 @@ You can find me on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Kaggle_Competitions&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
 
-<a href="https://github.com/AkhilaKamma/Excel-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Inventory-supply-chain-managemen-5&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+<a href="https://github.com/AkhilaKamma/Real_time_stock_market_analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Real_time_stock_market_analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
 
 
