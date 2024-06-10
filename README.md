@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Akhila Kamma and I'm a software developer/Data Scientist/ML enthusiast. I'm currently pursuing Master's in Computer Science at Arizona State University, Tempe. 
+My name is Akhila Kamma and I'm a software developer/Data Scientist/ML enthusiast. I'm Grad student in Computer Science at Arizona State University, Tempe. 
 
 You can find me on: 
 - [![LinkedIn][3.2]][3] [LinkedIn][3]
