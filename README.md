@@ -53,8 +53,8 @@ You can find me on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=News-article-Classification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a> 
 
-<a href="https://github.com/AkhilaKamma/NLP-Bert-Deep-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Kaggle_Competitions&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+<a href="https://github.com/AkhilaKamma/Inventory-supply-chain-managemen-5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilaKamma&repo=Inventory-supply-chain-managemen-5&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
 
 <a href="https://github.com/AkhilaKamma/Real_time_stock_market_analysis">
