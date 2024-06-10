@@ -33,15 +33,14 @@ You can find me on:
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) -->
 
-
-Python
-MySQL
-Data Mining
-Data Analysis - Real time
-Data Visualization
-Machine Learning
-Deep Learning
-Generative AI
+- Python
+- MySQL
+- Data Mining
+- Data Analysis - Real time
+- Data Visualization
+- Machine Learning
+- Deep Learning
+- Generative AI
 
 
 ## &#128187; GitHub Projects
